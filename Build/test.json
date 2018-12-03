@@ -1,6 +1,6 @@
 {
-"companyName": "DefaultCompany",
-"productName": "csc281_project2",
+"companyName": "CSC281",
+"productName": "Mississippi-Jackson-WebGL",
 "dataUrl": "test.data.unityweb",
 "wasmCodeUrl": "test.wasm.code.unityweb",
 "wasmFrameworkUrl": "test.wasm.framework.unityweb",
