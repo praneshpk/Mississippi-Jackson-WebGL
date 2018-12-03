@@ -9,14 +9,14 @@ The player is thrown into King Tut’s tomb where Mississippi Jackson sets out t
 
 
 ## Controls:
-Up arrow key = move up
-Down arrow key = move down
-Right arrow key = move right
-Left arrow Key = move left
+Up arrow key = move up<br>
+Down arrow key = move down<br>
+Right arrow key = move right<br>
+Left arrow Key = move left<br>
 
 
 ## Credits
-Game Art & Story - Grant Ell
-Music, Sound Effects & Scripting - Pranesh
-Scripting & Design - Michael
-Scripting & Task Planning - Jesse
+**Game Art & Story:** Grant Ell<br>
+**Music, Sound Effects & Scripting:** Pranesh Kamalakanthan<br>
+**Scripting & Design:** Michael Hendry<br>
+**Scripting & Task Planning:** Jesse Morgan<br>**
