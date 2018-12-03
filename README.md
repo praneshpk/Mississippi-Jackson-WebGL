@@ -19,4 +19,4 @@ Left arrow Key = move left<br>
 **Game Art & Story:** Grant Ell<br>
 **Music, Sound Effects & Scripting:** Pranesh Kamalakanthan<br>
 **Scripting & Design:** Michael Hendry<br>
-**Scripting & Task Planning:** Jesse Morgan<br>**
+**Scripting & Task Planning:** Jesse Morgan<br>
