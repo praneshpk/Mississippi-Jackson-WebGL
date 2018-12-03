@@ -1,4 +1,4 @@
-## Walkthrough
+## Mississippi Jackson & the Pharoah's Tomb
 ### Overview:
 The player is thrown into King Tut’s tomb where Mississippi Jackson sets out to find all of the artifacts in the tomb. Each level is procedurally generated with jars that the player can break apart by moving towards them in addition to enemies which will attempt to hurt the player if they get near. If a player is hurt by an enemy, they can only heal by either picking up a half heart or a full heart. The half heart heals the player for 5 points and the full heart heals the player for 10 points. In each level
 
